@@ -13,7 +13,7 @@
 ## Quick Start
 1. کلون کن:
 ```bash
-git clone https://github.com/Yazdan-Ghorbani/Divar-Agent.git
+git clone https://github.com/Yazdan-Ghorbani/Divar-Agent
 cd Divar-Agent
 ```
 ---
